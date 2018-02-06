@@ -19,3 +19,5 @@ minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u ductran9x
 
 zcash
 http://www.fucking-it.com/articles/bitcoin/1025-zcash-cpu-mining-on-linux
+
+./nheqminer -l zec.pool.minergate.com:3357 -u ductran9xhp@gmail.com -p x
