@@ -27,3 +27,4 @@ https://minergate.com/altminers/cpuminer-multi-wolf
 
 LCC
 ./minerd  -o stratum+tcp://stratum-lcc.multipools.club:11135 -u dknow.BK1 -p BK1
+https://bitcointalk.org/index.php?topic=55038.msg654850#msg654850
