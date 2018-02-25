@@ -23,3 +23,7 @@ http://www.fucking-it.com/articles/bitcoin/1025-zcash-cpu-mining-on-linux
 ./nheqminer -l zec.pool.minergate.com:3357 -u ductran9xhp@gmail.com -p x
 
 https://minergate.com/altminers/cpuminer-multi-wolf
+
+
+LCC
+./minerd  -o stratum+tcp://stratum-lcc.multipools.club:11135 -u dknow.BK1 -p BK1
