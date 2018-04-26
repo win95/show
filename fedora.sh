@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 yum -y install git curl-devel libcurl glib-devel libtool
 git clone https://github.com/hyc/cpuminer-multi
 cd cpuminer-multi

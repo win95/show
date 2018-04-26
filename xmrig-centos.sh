@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 yum install -y epel-release
 yum install -y git make cmake gcc gcc-c++ libstdc++-static libmicrohttpd-devel libuv-static
 git clone https://github.com/win95/xmr-miner.git

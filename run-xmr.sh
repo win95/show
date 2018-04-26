@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 apt-get update
 apt-get install -y libcurl4-openssl-dev git build-essential tmux
 apt-get install -y autotools-dev autoconf libcurl3 libcurl4-gnutls-dev
